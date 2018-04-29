@@ -1,4 +1,4 @@
-/*package com.aneesh.controller;
+package com.aneesh.controller;
 
 import java.util.Collection;
 import java.util.List;
@@ -63,4 +63,3 @@ public class UserController {
 
 	}
 }
-*/

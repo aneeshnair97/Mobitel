@@ -1,4 +1,4 @@
-/*package com.aneesh.controller;
+package com.aneesh.controller;
 
 import java.util.List;
 
@@ -109,4 +109,3 @@ public class SupplierController {
 		return "Supplier";
 	}
 }
-*/
